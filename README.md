@@ -1,6 +1,6 @@
 ---
 
-# **Sales Performance Dashboard (Tableau)
+# Sales Performance Dashboard (Tableau)
 
 ## **Project Overview**
 This project showcases an interactive Sales Dashboard built using Tableau to analyze business performance across multiple dimensions including sales, profit, and quantity.
