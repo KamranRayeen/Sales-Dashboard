@@ -43,21 +43,6 @@ The dashboard provides insights into yearly trends, product performance, and wee
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
-
----
-
-## 📁 Project Structure
-```
-📦 Sales-Dashboard-Tableau
- ┣ 📊 Sales Dashboard.twbx
- ┣ 📸 dashboard.png
- ┣ 📄 README.md
-```
-
----
-
 ## 🚀 How to Use
 1. Download the `.twbx` file
 2. Open it in Tableau Desktop / Tableau Public
@@ -80,4 +65,4 @@ Feel free to fork this repository and improve the dashboard.
 
 ## 📬 Contact
 For any queries or collaboration:
-- GitHub: your-profile-link
+- GitHub: [your-profile-link](https://github.com/KamranRayeen)
