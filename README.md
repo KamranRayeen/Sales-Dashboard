@@ -43,6 +43,13 @@ The dashboard provides insights into yearly trends, product performance, and wee
 
 ---
 
+## 📸 Dashboard Preview
+<p align="center">
+  <img src="Sales Dashboard.png" width="900"/>
+</p>
+
+---
+
 ## 🚀 How to Use
 1. Download the `.twbx` file
 2. Open it in Tableau Desktop / Tableau Public
